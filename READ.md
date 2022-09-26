@@ -1,0 +1,1 @@
+In this project I'm trying to make a website about recipes by using the things I learned from odin. Testing my new learned skill on this project.
